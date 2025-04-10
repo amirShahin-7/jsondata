@@ -1,5 +1,4 @@
 {
-  "data":[{
   "users": [
     {
       "id": "1",
@@ -101,7 +100,5 @@
       "price": 2990,
       "image": "https://m.media-amazon.com/images/I/61hS+OyHvQL._AC._SR360,460.jpg"
     }
-  ]
-}
   ]
 }
